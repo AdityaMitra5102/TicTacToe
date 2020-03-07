@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=ob
+comment0.target=LoadGame(gui)
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=fln
+comment2.target=int\ load(java.lang.String)
+numComments=3
