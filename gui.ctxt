@@ -1,10 +1,11 @@
 #BlueJ class context
-comment0.params=
-comment0.target=gui()
-comment1.params=keys
-comment1.target=void\ setKeys(javax.swing.JButton[])
-comment2.params=e
-comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
-comment3.params=
-comment3.target=void\ setDesign()
-numComments=4
+comment0.target=gui
+comment1.params=
+comment1.target=gui()
+comment2.params=keys
+comment2.target=void\ setKeys(javax.swing.JButton[])
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ setDesign()
+numComments=5
